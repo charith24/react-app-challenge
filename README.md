@@ -1,2 +1,2 @@
-# react-app-challenge
+# react-intro
 Created with CodeSandbox
